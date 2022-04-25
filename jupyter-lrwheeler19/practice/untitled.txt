@@ -1,0 +1,9 @@
+Name, Length
+Anchovies, 12
+Brill, 40
+Cod, 70
+Dabs, 25
+Escolar, 100
+Flounder, 30
+Garfish, 50
+Haddock, 55
